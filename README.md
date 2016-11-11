@@ -5,5 +5,6 @@
 * [约瑟夫环-链表实现](JosephusCircle_alist_lab1_2/)
 * [顺序栈](Sequential_Stack/)
 * [链栈](Link_Stack/)
+* [队列的循环链表实现](Circular_Queue/)
 * [判断回文](Palindrome/)
-* [中缀表达式转后缀表达式](Infix-to-Postfix)
+* [中缀表达式转后缀表达式](Infix-to-Postfix/)
