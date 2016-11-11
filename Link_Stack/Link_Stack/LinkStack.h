@@ -8,6 +8,7 @@ public:
 	int pop();
 	DATATYPE get_top();
 	int is_empty();
+	void ls();
 private:
 	StackNode *top;
 };

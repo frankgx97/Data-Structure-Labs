@@ -30,6 +30,17 @@ int LinkStack::pop()
 	return true;
 }
 
+void LinkStack::ls()
+{
+	StackNode * current = top;
+	while (1)
+	{
+		cout << current -> get_data();
+		if (current -> get_next() != NULL)
+			current = current -> get_next();
+		else return;
+	}
+}
 DATATYPE LinkStack::get_top()
 {
 	if (LinkStack::is_empty())

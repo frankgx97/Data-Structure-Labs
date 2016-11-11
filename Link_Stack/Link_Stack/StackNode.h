@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-#define DATATYPE int
+#define DATATYPE char
 class StackNode
 {
 public:

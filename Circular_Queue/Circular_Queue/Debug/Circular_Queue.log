@@ -1,0 +1,17 @@
+﻿生成启动时间为 2016/11/11 15:12:40。
+     1>项目“D:\Users\i\Owncloud\文档\大二上\数据结构\实验\Circular_Queue\Circular_Queue\Circular_Queue.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Circular_Queue.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt LinkQueue.cpp
+         LinkQueue.cpp
+     1>d:\users\i\owncloud\文档\大二上\数据结构\实验\circular_queue\circular_queue\linkqueue.cpp(29): warning C4101: “rear_temp”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\i\Owncloud\文档\大二上\数据结构\实验\Circular_Queue\Debug\Circular_Queue.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\i\Owncloud\文档\大二上\数据结构\实验\Circular_Queue\Debug\Circular_Queue.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\i\Owncloud\文档\大二上\数据结构\实验\Circular_Queue\Debug\Circular_Queue.lib" /MACHINE:X86 Debug\Circular_Queue.obj
+         Debug\LinkQueue.obj
+         Debug\QueueNode.obj
+         Debug\stdafx.obj
+         Circular_Queue.vcxproj -> D:\Users\i\Owncloud\文档\大二上\数据结构\实验\Circular_Queue\Debug\Circular_Queue.exe
+     1>已完成生成项目“D:\Users\i\Owncloud\文档\大二上\数据结构\实验\Circular_Queue\Circular_Queue\Circular_Queue.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.70

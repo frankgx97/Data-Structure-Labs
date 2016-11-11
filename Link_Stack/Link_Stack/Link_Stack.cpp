@@ -22,7 +22,10 @@ void main()
 			cout << stack.get_top() << endl;
 		else if(ch == 4)
 			cout << stack.is_empty() << endl;
+		else if(ch == 5)
+			stack.ls();
 		system("pause");
 		system("cls");
 	}
+	return;
 }
