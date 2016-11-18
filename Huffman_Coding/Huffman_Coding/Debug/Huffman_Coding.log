@@ -1,0 +1,5 @@
+﻿  HuffmanTree.cpp
+d:\users\i\owncloud\文档\大二上\数据结构\实验\huffman_coding\huffman_coding\huffmantree.cpp(45): warning C4018: “<=”: 有符号/无符号不匹配
+d:\users\i\owncloud\文档\大二上\数据结构\实验\huffman_coding\huffman_coding\huffmantree.cpp(58): warning C4018: “<”: 有符号/无符号不匹配
+d:\users\i\owncloud\文档\大二上\数据结构\实验\huffman_coding\huffman_coding\huffmantree.cpp(122): warning C4018: “<=”: 有符号/无符号不匹配
+  Huffman_Coding.vcxproj -> D:\Users\i\Owncloud\文档\大二上\数据结构\实验\Huffman_Coding\Debug\Huffman_Coding.exe
