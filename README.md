@@ -18,3 +18,7 @@
 ### 实验四 - 图
 * [图的深度/广度遍历/Prim算法](Graph_Traversal/)
 
+### 实验五 - 搜索
+* [有序顺序表的折半搜索](Binary_Search/)
+* [链表搜索](Link_List_Search/)
+* [哈希表](Hash_Table/)
